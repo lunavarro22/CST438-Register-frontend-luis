@@ -66,3 +66,13 @@ nothing to commit, working tree clean
 gitpod ~/frontend (dev) $ npm --version
 8.19.3
 ```
+
+#### STEP: 6a
+
+Added "ADD STUDENT" button to home and link with student component.
+![](https://i.imgur.com/ZliJROc.png)
+
+
+Added router "add-student" in app.js.
+![](https://i.imgur.com/a4ESMzl.png)
+
