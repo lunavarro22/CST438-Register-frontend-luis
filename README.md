@@ -56,3 +56,13 @@ gitpod ~/frontend (master) $
 Creating ssh key and adding to github to access repositories.
 
 ![Added SSH to Github](https://i.imgur.com/AlodB3g.png)
+
+
+#### STEP: 05
+```shell
+gitpod ~/frontend (dev) $ git status
+On branch dev
+nothing to commit, working tree clean
+gitpod ~/frontend (dev) $ npm --version
+8.19.3
+```
