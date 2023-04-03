@@ -56,3 +56,23 @@ gitpod ~/frontend (master) $
 Creating ssh key and adding to github to access repositories.
 
 ![Added SSH to Github](https://i.imgur.com/AlodB3g.png)
+
+
+#### STEP: 05
+```shell
+gitpod ~/frontend (dev) $ git status
+On branch dev
+nothing to commit, working tree clean
+gitpod ~/frontend (dev) $ npm --version
+8.19.3
+```
+
+#### STEP: 6a
+
+Added "ADD STUDENT" button to home and link with student component.
+![](https://i.imgur.com/ZliJROc.png)
+
+
+Added router "add-student" in app.js.
+![](https://i.imgur.com/a4ESMzl.png)
+
